@@ -1,0 +1,15 @@
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/bin/Debug/net6.0/Sistema de Hospedagem de um Hotel
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/bin/Debug/net6.0/Sistema de Hospedagem de um Hotel.deps.json
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/bin/Debug/net6.0/Sistema de Hospedagem de um Hotel.runtimeconfig.json
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/bin/Debug/net6.0/Sistema de Hospedagem de um Hotel.dll
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/bin/Debug/net6.0/Sistema de Hospedagem de um Hotel.pdb
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.csproj.AssemblyReference.cache
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.AssemblyInfoInputs.cache
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.AssemblyInfo.cs
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.csproj.CoreCompileInputs.cache
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.dll
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/refint/Sistema de Hospedagem de um Hotel.dll
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.pdb
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/Sistema de Hospedagem de um Hotel.genruntimeconfig.cache
+/home/esdras/RiderProjects/Sistema de Hospedagem de um Hotel/Sistema de Hospedagem de um Hotel/obj/Debug/net6.0/ref/Sistema de Hospedagem de um Hotel.dll
